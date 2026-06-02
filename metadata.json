@@ -1,0 +1,6 @@
+{
+  "name": "Skyline Weather",
+  "description": "Real-time, location-aware weather forecast with a stunning Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
